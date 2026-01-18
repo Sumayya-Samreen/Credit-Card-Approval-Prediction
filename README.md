@@ -1,12 +1,6 @@
 # Credit Card Approval Prediction
 
-## Project Overview
-
-This project focuses on predicting credit card approval decisions using machine learning techniques. A Logistic Regression model is developed to classify applications as **approved or rejected** based on applicant attributes. The workflow covers data loading, preprocessing, model training, evaluation, and hyperparameter tuning.
-
-The objective is to demonstrate a complete and structured machine learning pipeline applied to a real-world classification problem.
-
-**This model predicts whether a credit card application will be approved or rejected based on applicant attributes.**
+This project focuses on predicting credit card approval decisions using machine learning. A Logistic Regression model is developed to classify applications as **approved or rejected** based on applicant attributes. The workflow demonstrates a complete and structured machine learning pipeline, including data loading, preprocessing, model training, evaluation, and hyperparameter tuning.
 
 ---
 
@@ -25,11 +19,11 @@ The objective is to demonstrate a complete and structured machine learning pipel
 ### 1. Data Loading and Inspection
 
 * Raw data loaded using Pandas
-* Structure, data types, summary statistics, and missing values examined
+* Examined structure, data types, summary statistics, and missing values
 
 ### 2. Handling Missing Values
 
-* Numeric features imputed using*mean values
+* Numeric features imputed using mean values
 * Categorical features imputed using most frequent values
 
 ### 3. Data Preprocessing
@@ -56,7 +50,6 @@ The objective is to demonstrate a complete and structured machine learning pipel
 * Parameters tuned: `max_iter`, `tol`
 * Best Cross-Validated Accuracy: ~85.1%
 * Best Parameters:
-
   `max_iter = 100`
   `tol = 0.01`
 
@@ -132,5 +125,4 @@ This project demonstrates a complete machine learning workflow for binary classi
 
 **Author:**
 Sumayya Samreen, M.Sc. in Artificial Intelligence
-
 Focused on applied machine learning, data-driven decision systems, and building reliable models for real-world classification tasks.
