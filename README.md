@@ -115,7 +115,7 @@ This project demonstrates a complete machine learning workflow applied to a real
 * Model validation using accuracy metrics, confusion matrices, and cross-validation
 * Hyperparameter tuning with Grid Search to improve model performance
 
-It provides a clear, interpretable example of applied machine learning and practical skills in **data science and ML**.
+It provides a clear, interpretable example of applied machine learning and practical skills in **data science and machine learning**.
 
 ---
 
