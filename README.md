@@ -115,7 +115,7 @@ This project demonstrates a complete machine learning workflow applied to a real
 * Model validation using accuracy metrics, confusion matrices, and cross-validation
 * Hyperparameter tuning with Grid Search to improve model performance
 
-This repository serves as a strong portfolio example for roles in **data science, machine learning, AI engineering, and analytics**, emphasizing structured problem-solving and model interpretability.
+This repository demonstrates a machine learning workflow for a real-world problem with clear, interpretable models. It highlights practical skills in **data science and machine learning.**
 
 ---
 
