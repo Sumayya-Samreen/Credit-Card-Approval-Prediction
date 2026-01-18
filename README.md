@@ -119,6 +119,6 @@ It provides a clear, interpretable example of applied machine learning and pract
 
 ---
 
-**Author:**
-Sumayya Samreen, M.Sc. in Artificial Intelligence
-Focused on applied machine learning, data-driven decision systems, and building reliable models for real-world classification tasks.
+## Author
+**Sumayya Samreen — M.Sc. in Artificial Intelligence**<br>
+Focused on applied machine learning, interpretable models, and real-world decision systems.
