@@ -63,21 +63,6 @@ This project focuses on predicting credit card approval decisions using machine 
 
 ---
 
-## Pro Tip for Recruiters / Collaborators
-
-This project demonstrates a complete machine learning workflow applied to a real-world binary classification problem. It highlights practical skills in:
-
-* Data cleaning and preprocessing of mixed numerical and categorical data
-* Handling missing values using statistical and frequency-based methods
-* Feature encoding and normalization for model readiness
-* Building and evaluating classification models using Logistic Regression
-* Model validation using accuracy metrics, confusion matrices, and cross-validation
-* Hyperparameter tuning with Grid Search to improve model performance
-
-This repository serves as a strong portfolio example for roles in **data science, machine learning, AI engineering, and analytics**, emphasizing structured problem-solving and model interpretability.
-
----
-
 ## Project Structure
 
 ```
@@ -119,9 +104,20 @@ scikit-learn==1.3.3
 
 ---
 
-## Conclusion
+## Pro Tip for Recruiters / Collaborators
 
-This project demonstrates a complete machine learning workflow for binary classification using Logistic Regression. It highlights best practices in data preprocessing, model evaluation, and hyperparameter optimization, making it a solid foundation for further experimentation or deployment in real-world decision systems.
+This project demonstrates a complete machine learning workflow applied to a real-world binary classification problem. It highlights practical skills in:
+
+* Data cleaning and preprocessing of mixed numerical and categorical data
+* Handling missing values using statistical and frequency-based methods
+* Feature encoding and normalization for model readiness
+* Building and evaluating classification models using Logistic Regression
+* Model validation using accuracy metrics, confusion matrices, and cross-validation
+* Hyperparameter tuning with Grid Search to improve model performance
+
+This repository serves as a strong portfolio example for roles in **data science, machine learning, AI engineering, and analytics**, emphasizing structured problem-solving and model interpretability.
+
+---
 
 **Author:**
 Sumayya Samreen, M.Sc. in Artificial Intelligence
