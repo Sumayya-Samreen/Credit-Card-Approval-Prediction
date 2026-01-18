@@ -6,9 +6,7 @@ This project focuses on predicting credit card approval decisions using machine 
 
 The objective is to demonstrate a complete and structured machine learning pipeline applied to a real-world classification problem.
 
-**You can confidently state in your README, report, or interviews:**
-
-> “This model predicts whether a credit card application will be approved or rejected based on applicant attributes.”
+**This model predicts whether a credit card application will be approved or rejected based on applicant attributes.**
 
 ---
 
@@ -26,41 +24,41 @@ The objective is to demonstrate a complete and structured machine learning pipel
 
 ### 1. Data Loading and Inspection
 
-* Raw data loaded using **Pandas**
+* Raw data loaded using Pandas
 * Structure, data types, summary statistics, and missing values examined
 
 ### 2. Handling Missing Values
 
-* Numeric features imputed using **mean values**
-* Categorical features imputed using **most frequent values**
+* Numeric features imputed using*mean values
+* Categorical features imputed using most frequent values
 
 ### 3. Data Preprocessing
 
-* Categorical variables encoded using **LabelEncoder**
+* Categorical variables encoded using LabelEncoder
 * Features prepared for modeling
-* Split into **training and testing sets**
-* **Min-Max normalization** applied for feature scaling
+* Split into training and testing sets
+* Min-Max normalization applied for feature scaling
 
 ### 4. Model Training
 
-* **Logistic Regression** trained on scaled training data
+* Logistic Regression trained on scaled training data
 * Default hyperparameters used as baseline
 
 ### 5. Model Evaluation
 
-* Metrics used: **Accuracy** and **Confusion Matrix**
-* Test Accuracy: **84.21%**
+* Metrics used: Accuracy and Confusion Matrix
+* Test Accuracy: 84.21%
 * The model demonstrates strong predictive capability with balanced performance across approval and rejection classes
 
 ### 6. Hyperparameter Tuning
 
-* **Grid Search** with 5-fold cross-validation applied
+* Grid Search with 5-fold cross-validation applied
 * Parameters tuned: `max_iter`, `tol`
-* **Best Cross-Validated Accuracy:** ~85.1%
-* **Best Parameters:**
+* Best Cross-Validated Accuracy: ~85.1%
+* Best Parameters:
 
-  * `max_iter = 100`
-  * `tol = 0.01`
+  `max_iter = 100`
+  `tol = 0.01`
 
 ---
 
@@ -130,7 +128,7 @@ scikit-learn==1.3.3
 
 ## Conclusion
 
-This project demonstrates a complete machine learning workflow for binary classification using Logistic Regression. It highlights **best practices in data preprocessing, model evaluation, and hyperparameter optimization**, making it a solid foundation for further experimentation or deployment in real-world decision systems.
+This project demonstrates a complete machine learning workflow for binary classification using Logistic Regression. It highlights best practices in data preprocessing, model evaluation, and hyperparameter optimization, making it a solid foundation for further experimentation or deployment in real-world decision systems.
 
 **Author:**
 Sumayya Samreen, M.Sc. in Artificial Intelligence
