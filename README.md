@@ -97,10 +97,26 @@ scikit-learn==1.3.3
 
 ## How to Run
 
-1. Clone the repository
-2. Install dependencies
-3. Open the notebook `credit_card_approval_prediction.ipynb`
-4. Run all cells sequentially
+Clone the repository:
+
+```bash
+git clone https://github.com/Sumayya-Samreen/Credit-Card-Approval-Prediction.git
+cd Credit-Card-Approval-Prediction
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Open the Jupyter notebook:
+
+```
+credit_card_approval_prediction.ipynb
+```
+
+Run all cells sequentially to load data, preprocess, train the model, and evaluate results.
 
 ---
 
